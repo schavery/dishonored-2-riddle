@@ -1,4 +1,4 @@
-#Solving the Dishonored 2 riddle
+# Solving the Dishonored 2 riddle
 
 My first thought was to try to create the constraint functions and test all possible combinations
 in the solution space.
